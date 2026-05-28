@@ -1,0 +1,8 @@
+# Archivos grandes — hospedar el video por separado
+hero-video.mp4
+*.mp4
+*.mov
+*.avi
+
+# Sistema
+.DS_Store
